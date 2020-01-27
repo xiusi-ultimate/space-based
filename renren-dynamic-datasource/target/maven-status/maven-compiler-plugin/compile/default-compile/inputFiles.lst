@@ -1,0 +1,8 @@
+/Applications/Space-based/renren-security/renren-dynamic-datasource/src/main/java/io/renren/commons/dynamic/datasource/properties/DynamicDataSourceProperties.java
+/Applications/Space-based/renren-security/renren-dynamic-datasource/src/main/java/io/renren/commons/dynamic/datasource/config/DynamicDataSource.java
+/Applications/Space-based/renren-security/renren-dynamic-datasource/src/main/java/io/renren/commons/dynamic/datasource/config/DynamicDataSourceFactory.java
+/Applications/Space-based/renren-security/renren-dynamic-datasource/src/main/java/io/renren/commons/dynamic/datasource/annotation/DataSource.java
+/Applications/Space-based/renren-security/renren-dynamic-datasource/src/main/java/io/renren/commons/dynamic/datasource/properties/DataSourceProperties.java
+/Applications/Space-based/renren-security/renren-dynamic-datasource/src/main/java/io/renren/commons/dynamic/datasource/aspect/DataSourceAspect.java
+/Applications/Space-based/renren-security/renren-dynamic-datasource/src/main/java/io/renren/commons/dynamic/datasource/config/DynamicDataSourceConfig.java
+/Applications/Space-based/renren-security/renren-dynamic-datasource/src/main/java/io/renren/commons/dynamic/datasource/config/DynamicContextHolder.java
